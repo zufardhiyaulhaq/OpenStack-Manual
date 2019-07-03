@@ -14,7 +14,7 @@
 |  NOVADB_PASS | Database password for Compute service |
 | PLACEMENT_PASS | Password of the Placement service user placement |
 |  RABBIT_PASS | Password of RabbitMQ user openstack |
-|  RABBIT_PASS | Password of RabbitMQ user openstack |
+|  METADATA_SECRET | Secret for the metadata proxy |
 
 ### Hosts Mapping
 ```
