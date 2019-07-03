@@ -1,4 +1,4 @@
-#Nova Controller
+# Nova Controller
 - Create database
 ```
 mysql -u root -pDBROOT_PASS
