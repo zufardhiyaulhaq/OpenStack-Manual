@@ -43,3 +43,14 @@ This IP address may change depends on your networking.
 
 ### Services
 - This tutorial will install basic services like keystone, nvoa, neutron, and glance.
+
+### Installation
+Run this step orderly from top to bottom
+- [Prerequisites](../blob/master/prerequisites.md)
+- [Keystone](../blob/master/keystone.md)
+- [Glance](../blob/master/glance.md)
+- [Nova Controller](../blob/master/nova-controller.md)
+- [Nova Compute](../blob/master/nova-compute.md)
+- [Neutron Controller](../blob/master/neutron-controller.md)
+- [Neutron Compute](../blob/master/neutron-compute.md)
+- [Horizon](../blob/master/horizon.md)
